@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ujitha Migara</h1>
+
 - 🔭 I’m currently working on [My Portfolio](https://github.com/UjithaM/MyPortfolio.git)
 
 - 🌱 I’m currently learning **HTML, CSS and python**
 
-- 👨‍💻 All of my projects are available at [http://ujithamigara.software/](http://ujithamigara.software/)
+- 👨‍💻 All of my projects are available at [ujithamigara.software](http://ujithamigara.software/)
 
 - 📫 How to reach me **ujithamigara@gmail.com**
 
