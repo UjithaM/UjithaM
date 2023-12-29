@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://ujithamigara.software/](https://ujithamigara.software/)
+- 👨‍💻 All of my projects are available at [ujithamigara.software](https://ujithamigara.software/)
 
 - 💬 Ask me about **Java, HTML and CSs**
 
